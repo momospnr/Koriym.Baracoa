@@ -1,0 +1,2 @@
+exports.ids=["about"],exports.modules={f820:function(t,s,e){"use strict";e.r(s);var a=function(){var t=this,s=t.$createElement,e=t._self._c||s;return e("div",{staticClass:"about"},[t._ssrNode("<h1>This is an about page</h1>")])},u=[],l=e("2877"),r={},n=Object(l["a"])(r,a,u,!1,null,null,null);s["default"]=n.exports}};
+//# sourceMappingURL=about.bundle.js.map
